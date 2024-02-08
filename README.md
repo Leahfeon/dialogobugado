@@ -1,0 +1,2 @@
+# dialogobugado
+dialogo bugado teste
